@@ -2,11 +2,11 @@
   <br />
     
 
-  <h3 align="center">A Zoom Clone</h3>
+  <h3 align="center">ClassNest</h3>
 
    <div align="center">
     
-    </div>
+    
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
